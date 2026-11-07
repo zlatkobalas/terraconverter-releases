@@ -9,6 +9,10 @@ Ovaj repozitorij **ne sadrži izvorni kod** — samo gotove izgradnje, objavljen
 - **Windows desktop — Portable** (`.zip`) — bez instalacije, bez admin prava, bez zadiranja u registry. Raspakiraj bilo gdje i pokreni `TerraConverter.exe` izravno; korisno za USB diskove ili ograničena računala.
 - **Android** — `.apk` prilog iz najnovijeg izdanja. Potrebno je omogućiti "Instaliraj iz nepoznatih izvora" za preglednik/upravitelj datoteka, pošto se aplikacija ne distribuira preko Google Playa.
 
+## Komponente trećih strana
+
+TerraConverter koristi komponente otvorenog koda licencirane pod vlastitim uvjetima (MIT, BSD, Apache 2.0, LGPL i druge). Vidi [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) za potpuni popis koji se isporučuje uz desktop izgradnju. Android izgradnja dodatno koristi nekoliko paketa bez službenog Android wheel-a — vidi [`android-vendor-wheels-notices.md`](android-vendor-wheels-notices.md) za te.
+
 ## Kontakt
 
 Prijava grešaka, pitanja, komercijalno licenciranje: zlatko.balas@gmail.com
