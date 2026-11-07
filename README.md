@@ -10,7 +10,7 @@ This repository contains **no source code** — only compiled builds, published 
 
 ## Third-party components
 
-TerraConverter bundles open-source components licensed under their own terms (MIT, BSD, Apache 2.0, LGPL and others). See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for the full list shipped with the desktop build. The Android build additionally vendors a few packages without an official Android wheel — see [`android-vendor-wheels-notices.md`](android-vendor-wheels-notices.md) for those.
+TerraConverter bundles open-source components licensed under their own terms (MIT, BSD, Apache 2.0, LGPL and others). See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for the full list shipped with the desktop build. The Android build additionally vendors a few packages without an official Android wheel — see [`android-vendor-wheels-notices.md`](ANDROID_VENDOR_NOTICES.md) for those.
 
 ## Contact     
 
